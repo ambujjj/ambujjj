@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://icons-for-free.com/iconfiles/png/512/java+icon-1320167912601224138.png">
+<img align="right" width="400" height="400" src="https://cdn3.iconfinder.com/data/icons/developer-files-2-add-on/48/v-35-512.png">
 
 # Hi, I'm Ambuj :wave:
 
